@@ -1,0 +1,9 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Checks whether a number is prime.",
+  "keywords": ["prime", "math"],
+  "license": "BSD-3-Clause",
+  "author": "",
+  "type": "commonjs"
+}
